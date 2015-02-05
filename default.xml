@@ -13,8 +13,11 @@
            fetch="ssh://git@github.com" />
            
   <remote name="cm"
-          fetch="https://github.com/CyanogenMod/" />
-          
+          fetch="https://github.com/vardyrunks/" />
+
+  <remote name="vdr"
+          fetch="https://github.com/CyanogenMod/" />       
+   
   <remote name="TeamBliss-LP"
           fetch="https://github.com/TeamBliss-LP/" />
 
@@ -56,6 +59,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs" />
   <project path="device/common" name="CyanogenMod/android_device_common" groups="pdk-cw-fs" />
+<project path="kernel/lge/gee" name="https://github.com/vardyrunks/android_kernel_asus_grouper/" remote="vdr" revision="lp-update" />
   <project path="device/generic/arm64" name="CyanogenMod/android_device_generic_arm64" groups="pdk" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" groups="pdk" />
