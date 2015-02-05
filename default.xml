@@ -1,25 +1,3 @@
- Skip to content
-This repository
-
-    Explore
-    Gist
-    Blog
-    Help
-
-    vardyrunks vardyrunks
-
-    1
-    0
-    0
-
-vardyrunks/blissrom
-
-blissrom/default.xml
-vardyrunks vardyrunks 16 hours ago
-Update default.xml
-
-1 contributor
-618 lines (595 sloc) 73.153 kb
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="aosp"
@@ -615,18 +593,3 @@ sync-j="4" />
 <!-- BlissPop Themes -->
 <project path="packages/themes/DeepDarkness" name="TeamBliss-LP/android_packages_themes_DeepDarkness" revision="lp5.0" />
 </manifest>
-
-    Status
-    API
-    Training
-    Shop
-    Blog
-    About
-
-    © 2015 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Contact
-
-
