@@ -11,13 +11,7 @@
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
-           
-  <remote name="cm"
-          fetch="https://github.com/vardyrunks/" />
 
-  <remote name="vdr"
-          fetch="https://github.com/CyanogenMod/" />       
-   
   <remote name="TeamBliss-LP"
           fetch="https://github.com/TeamBliss-LP/" />
 
